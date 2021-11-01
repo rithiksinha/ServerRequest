@@ -16,7 +16,7 @@ struct ContentView: View {
                 .foregroundColor(Color.orange)
                 .font(.system(size: 50))
                 .cornerRadius(20)
-                .shadow(radius: 10)
+                .shadow(radius: 15)
         }
     }
 }
